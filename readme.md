@@ -7,7 +7,7 @@ There's a full writeup at [INSERT URL] with more details on the project.
 ## Prerequisites
 There are few pieces of infrastructure that you'll need to run this application.
 
-1. LIFX light bulbs registered with their cloud API with their respective API IDs. These look like `d073d8658159`.
+1. LIFX light bulbs registered with their cloud API with the respective API IDs. These look like `d073d8658159`.
 2. Google Calendars and their respective API IDs. These look like `domain.com_5869234857353935383533@resource.calendar.google.com`.
 3. A Google API application configured to use the Google Calendar API and oAuth flow configured for the application. You can create one at https://console.developers.google.com
 

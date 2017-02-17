@@ -1,0 +1,6 @@
+#Used for Elastic Beanstalk Service worker to update lights every minute
+version: 1
+cron:
+  - name: "update-service"
+    url: "/update-service"
+    schedule: "* * * * *"

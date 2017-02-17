@@ -15,9 +15,9 @@ There are few pieces of infrastructure that you'll need to run this application.
 All keys and IDs have been scrubbed from the codebase. You'll need to replace these bits with the information above in the following locations in the codebase.
 * https://github.com/hugeinc/HelloLights/blob/master/room-config.js#L6
 * https://github.com/hugeinc/HelloLights/blob/master/room-config.js#L7
-* https://github.com/hugeinc/HelloLights/blob/master/google-config.js#L3
-* https://github.com/hugeinc/HelloLights/blob/master/google-config.js#L4
-* https://github.com/hugeinc/HelloLights/blob/master/google-config.js#L5
+* https://github.com/hugeinc/HelloLights/blob/master/google-config.js#L9
+* https://github.com/hugeinc/HelloLights/blob/master/google-config.js#L10
+* https://github.com/hugeinc/HelloLights/blob/master/google-config.js#L11
 * https://github.com/hugeinc/HelloLights/blob/master/libs/lifx.js#L5
 
 ## Running the App

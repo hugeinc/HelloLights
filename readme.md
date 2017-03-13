@@ -2,7 +2,7 @@
 
 An application to change the color of LIFX light bulbs depending on the schedule of Google Calendars. This is used in the Huge DC office to change the colors of lights in our conference rooms as the status of meetings in the rooms changes.
 
-There's a full writeup at [INSERT URL] with more details on the project.
+There's a full writeup at http://www.hugeinc.com/ideas/perspective/smart-lighting with more details on the project.
 
 ## Prerequisites
 There are few pieces of infrastructure that you'll need to run this application.
